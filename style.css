@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container .head .h h1 {
+    display: inline-flex;
+    margin: 10px;
+  }
+  
+  .Ramazon, .Mart, .Saxarlik, .Iftorlik {
+    font-size: 10px;
+    color: #4b3900;
+    padding: 5px;
+  }
+  
+  .Xafta {
+    font-size: 30px;
+    color: #4b3900;
+    padding: 10px;
+  }
+  
+  .table {
+    margin: 30px;
+    margin-left: 450px;
+    width: 400px;
+    height: 635px;
+    background-color: #f0eca5;
+  }
+  
+  table {
+    border: 1px solid #ffc400;
+  }
+  
+  table tr th, table tr td {
+    border: 1px solid #ffc400;
+    padding: 5px;
+    color: #4b3900;
+    text-align: center;
+  }
+  
+  table .Juma td  {
+      background-color: #4b3900;
+      border: 1px solid #4b3900;
+      color: #fff;
+      text-align: center;
+  }
+  
+  table tr td {
+    color: #4b3900;
+    font-size: 20px;
+    padding: 5px;
+  }
+  
+  .table2 {
+    margin: 30px;
+    width: 400px;
+    height: 635px;
+    position: relative;
+    bottom: 666px;
+    left: 850px;
+    background-color: #f0eca5;
+  }
+  
+  footer h1 {
+    /* color: #fff; */
+    position: relative;
+    bottom: 650px;
+    padding-left: 500px;
+  }
+  
+  footer .h1 {
+    /* color: #fff; */
+    position: relative;
+    bottom: 687px;
+    padding-left: 910px;
+  }
