@@ -8,16 +8,15 @@
 
   }
 
-
-
-
   .container {
-
     display: flex;
 
     justify-content: center;
 
     align-items: center;
+    
+    
+
 
   }
 
@@ -138,42 +137,12 @@
 
     height: 635px;
 
-    position: relative;
+    position: absolute;
 
-    bottom: 666px;
+    bottom: 94px;
 
     left: 850px;
 
     background-color: #f0eca5;
-
-  }
-
-
-
-
-  footer h1 {
-
-    /* color: #fff; */
-
-    position: relative;
-
-    bottom: 650px;
-
-    padding-left: 500px;
-
-  }
-
-
-
-
-  footer .h1 {
-
-    /* color: #fff; */
-
-    position: relative;
-
-    bottom: 687px;
-
-    padding-left: 910px;
 
   }
