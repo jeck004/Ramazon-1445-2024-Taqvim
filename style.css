@@ -15,13 +15,13 @@
     margin: 10px;
   }
   
-  .Ramazon, .Mart, .Saxarlik, .Iftorlik {
+  .ramadan, .march, .saxara, .iftar {
     font-size: 10px;
     color: #4b3900;
     padding: 5px;
   }
   
-  .Xafta {
+  .week {
     font-size: 30px;
     color: #4b3900;
     padding: 10px;
@@ -46,7 +46,7 @@
     text-align: center;
   }
   
-  table .Juma td  {
+  table .friday td  {
       background-color: #4b3900;
       border: 1px solid #4b3900;
       color: #fff;
